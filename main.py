@@ -1,10 +1,11 @@
 def hello():
-  print("hello!! hema") # used tab for the space
+    print("hello!! hema") 
   
+
 def bye():
-  print("bye!! hema") # used2 spaces here
+    print("bye!! hema") 
   
+
 print(hello())
 
-#messy code
-#linter is not gonna like this at all 
+
