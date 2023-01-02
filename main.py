@@ -1,8 +1,8 @@
 def hello():
-   print("hello!! hema")
+    print("hello!! hema")
   
 
 def bye():
-   print("bye!! hema")
+    print("bye!! hema")
   
 print(hello())
